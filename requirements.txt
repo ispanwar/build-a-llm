@@ -1,0 +1,30 @@
+torch
+ipykernel
+jupyterlab
+
+# Numerical computing and data exploration
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Training and notebook utilities
+tqdm
+einops
+pyyaml
+
+# Text data and tokenization
+datasets
+tokenizers
+tiktoken
+sentencepiece
+
+# Evaluation and experiment tracking
+evaluate
+tensorboard
+wandb
+
+# Optional model inspection and inference helpers
+transformers
+safetensors
